@@ -8,9 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("AnagramsKataConsole")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Grange Insurance")]
 [assembly: AssemblyProduct("AnagramsKataConsole")]
-[assembly: AssemblyCopyright("Copyright © Grange Insurance 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
